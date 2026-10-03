@@ -4,7 +4,5 @@
 ``𝔗𝔥𝔦𝔰 𝔠𝔦𝔱𝔶 𝔦𝔰 𝔪𝔦𝔫𝔢 𝔞𝔫𝔶𝔴𝔞𝔶.``
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MMYDElMOS&label=pomegranates&color=red" />
-</p>
+
 
